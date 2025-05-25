@@ -2,7 +2,7 @@
 ![Screen Shot 2025-05-25 at 12 28 08 PM](https://github.com/user-attachments/assets/9314acf7-adda-4826-9cba-eb3f48361a38)
 
 
-# 📦 V&S106
+# 📦 V&S106 BY THE INCOGNITUS
 
 This tool helps you **automatically validate and sort and organize a list of email addresses** into different folders based on their email providers (like Gmail, Yahoo, Outlook, etc.).
 
