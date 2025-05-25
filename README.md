@@ -3,7 +3,10 @@
 
 
 # 📦 V&S106 BY THE INCOGNITUS
+
 order on telegram @the404marketplace
+
+
 This tool helps you **automatically validate and sort and organize a list of email addresses** into different folders based on their email providers (like Gmail, Yahoo, Outlook, etc.).
 
 It’s great for anyone who works with lots of emails and wants to group them quickly by the service they use the valid or invalid or deliverable one.
