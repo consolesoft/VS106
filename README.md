@@ -4,7 +4,7 @@
 
 # 📦 V&S106 BY THE INCOGNITUS
 
-order on telegram @the404marketplace
+order on telegram @the_incognitus
 
 
 This tool helps you **automatically validate and sort and organize a list of email addresses** into different folders based on their email providers (like Gmail, Yahoo, Outlook, etc.).
