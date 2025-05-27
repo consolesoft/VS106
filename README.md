@@ -83,11 +83,6 @@ The tool:
 
 ---
 
-## 💬 Support
-
-If you have any issues using the tool, reach out to us at \[[support@yourdomain.com](mailto:support@yourdomain.com)] or [GitHub Issues](https://github.com/concolesoft/purple/issues).
-
----
 
 ## 🧾 License
 
